@@ -5,6 +5,8 @@ It's too easy;
 * Open context menu (Right click)
 * Press `Translate Select Text`
 
+![translateSelectedText](gifs/translateSelectedText.gif)
+
 ## Requirements
 
 * Just VS Code
